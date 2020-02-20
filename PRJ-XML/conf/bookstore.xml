@@ -1,0 +1,15 @@
+<?xml version = "1.1" encoding = "UTF-8"?>
+<bookstore>
+	<book category = "children">
+		<title lang = "en">Harry Potter</title>
+		<author>Jk</author>
+		<year>2005</year>
+		<price>29.9</price>
+	</book>
+	<book category = "cooking">
+		<title lang = "en">Everyday Italian</title>
+		<author>hi</author>
+		<year>2005</year>
+		<price>30</price>
+	</book>
+</bookstore>
